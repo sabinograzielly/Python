@@ -12,4 +12,4 @@ if int(peso1) + int(peso2) >10:
     exit(0)
 else:
     media = (int(nota1) * int(peso1) + int(nota2) * int(peso2)) / (int(peso1) + int(peso2))
-    print(f'A média do aluno é {media} ')#  com a chave o valor da média é impresso no terminal 
+    print(f'A média do aluno é {media} ') #   com a chave o valor da média é impresso no terminal 
