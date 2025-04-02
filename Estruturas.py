@@ -12,4 +12,4 @@ else:
         elif media >=5 and media <7:
             print("Você esta de exame.")
         else:
-            print("Você foi reprovdo!")
+            print("Você foi reprovado!")
