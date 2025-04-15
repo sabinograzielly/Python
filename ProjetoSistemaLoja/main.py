@@ -5,8 +5,9 @@ loja = Loja()
 carrinho = Carrinho()
 
 loja.adicionar_produto("Camiseta", 50.0, 10)
-loja.adicionar_produto("Calça", 120.0, 5)
-loja.adicionar_produto("Tênis", 200.0, 3)
+loja.adicionar_produto("Calça", 120.0, 20)
+loja.adicionar_produto("Tênis", 200.0, 30)
+loja.adicionar_produto("Jaqueta", 235.0, 10)
 
 while True:
     print("\n MENU LOJA ")
