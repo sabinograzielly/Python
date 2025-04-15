@@ -49,6 +49,7 @@ while True:
     elif opcao == "5":
         if not carrinho.itens:
             print("O carrinho está vazio. Adicione produtos antes de finalizar a compra.")
+            continue
         else:
             print("\nFormas de pagamento:")
             print("1. Dinheiro (10% de desconto)")
